@@ -2,11 +2,8 @@ require_relative '../utils/earthquake_fetcher'
 require_relative '../config/database.rb'
 
 def fetch_and_insert_earthquakes
-  # Conectamos a la BD
   client = connect_to_database
-  # Seleccionamos el collection
   collection_earthquakes = client[:earthquakes]
-  # Obtener todos los earthquakes válidos
   earthquakes = fetch_earthquakes
 
   if earthquakes.nil? || earthquakes.empty?
