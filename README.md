@@ -19,5 +19,6 @@ Después instalar por terminal las dependencias gem:
 Por último ejecutar comando de arranque: 
 ruby app.rb
 
-Captura del proyecto Backend
+Captura del proyecto Backend: 
+
 https://res.cloudinary.com/djsl4a5py/image/upload/v1713063509/AppEarthquake/655ddedc-86a6-4669-85bd-af70b8007f0e.png
