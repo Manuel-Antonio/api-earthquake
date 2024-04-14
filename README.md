@@ -3,6 +3,7 @@ Tecnologías usadas:
 -	Framework Sinatra
 -	Ruby
 -	MongoDB
+
 Para ejecutar el Proyecto Backend se debe tener instalado Ruby y MongoDB 
 
 Después instalar por terminal las dependencias gem:
