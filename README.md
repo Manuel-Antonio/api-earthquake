@@ -1,4 +1,4 @@
-BACKEND
+## Instrucciones de instalación
 Tecnologías usadas:
 -	Framework Sinatra
 -	Ruby
