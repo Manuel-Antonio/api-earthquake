@@ -8,12 +8,12 @@ Para ejecutar el Proyecto Backend se debe tener instalado Ruby y MongoDB
 
 Después instalar por terminal las dependencias gem:
 
-gem install sinatra
-gem install httparty
-gem install json
-gem install mongo
-gem install rack/cors
-gem install sinatra/base
+- gem install sinatra
+- gem install httparty
+- gem install json
+- gem install mongo
+- gem install rack/cors
+- gem install sinatra/base
 
 
 Por último ejecutar comando de arranque: 
